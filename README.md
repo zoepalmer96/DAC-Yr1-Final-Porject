@@ -1,2 +1,2 @@
-# DAC-Yr1-Final-Porject
+# DAC-Yr1-Final-Project
 Materials used for DAC exhibition piece 
